@@ -1,0 +1,4 @@
+HOST= {Host Name}
+PORT= {Port Number}
+WEBHOOK_SECRET= {Secret Key for Authintication}
+DIRECTORY_PATH= {Absolute Path to the Code Root Directory}
