@@ -170,3 +170,5 @@ build-iPhoneSimulator/
 
 # GitPod
 .gitpod.yml
+
+.expo-shared/
